@@ -1,0 +1,22 @@
+{
+  "name": "broccoli-concat",
+  "description": "Tree concatenator filter for Broccoli",
+  "version": "0.0.1",
+  "author": "David Kelso <david@kelso.id.au>",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaius/broccoli-concat"
+  },
+  "keywords": [
+    "broccoli",
+    "broccoli-plugin",
+    "concat",
+    "javascript"
+  ],
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "broccoli-transform": "^0.1.0"
+  }
+}
